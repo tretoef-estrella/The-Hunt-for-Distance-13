@@ -111,7 +111,7 @@ The 108 Doctrines are a catalogue of search strategies assembled by Rafael Amich
 
 ## The Remaining Doctrines (57–108)
 
-Doctrines 57–108 are **combinatorial variants and hybrids** of the above families, deployed in the phased pipeline of the ESTRELLA v14 engine:
+Doctrines 57–108 are **combinatorial variants and hybrids** of the above families, deployed in the phased pipeline of the ESTRELLA v13 engine:
 
 - **57–66:** PUA variants with different mutation rates (1, 2, 3, 4, 5 positions per trial)
 - **67–76:** Storm variants with different column counts (2, 3, 4) and blame thresholds
@@ -125,7 +125,7 @@ Doctrines 57–108 are **combinatorial variants and hybrids** of the above famil
 
 ## Implementation
 
-All 108 doctrines are implemented in [`estrella_108_v14.py`](estrella_108_v14.py). The engine executes them in a phased pipeline:
+All 108 doctrines are implemented in [`estrella_108_v13.py`](estrella_108_v13.py). The engine executes them in a phased pipeline:
 
 1. **P1 (Quick):** Hill Climbing + Storm
 2. **P2 (Structural):** Ghost + Triangulation
