@@ -63,7 +63,7 @@ Encoding: 0=0, 1=1, ω=2, ω²=3
 | [RESULTS.md](RESULTS.md) | All verified matrices, weight distributions, and computational data |
 | [THEOREMS.md](THEOREMS.md) | Eight proven theorems with proofs |
 | [CHRONOLOGY.md](CHRONOLOGY.md) | Narrative timeline of the four-round campaign |
-| [CITATION.cff](CITATION.cff) | Citation metadata (CFF format) |
+| [CITATION.md](CITATION.md) | Citation metadata (BibTeX, APA, IEEE) |
 | [LICENSE.md](LICENSE.md) | Business Source License 1.1 + SAMAEL Decree |
 | [estrella_108_v13.py](estrella_108_v13.py) | The 108 Doctrines Engine — complete search code |
 | [MATRIZ_A48_y_42.txt](MATRIZ_A48_y_42.txt) | Raw generator matrices (A₁₂=48 and A₁₂=42) |
