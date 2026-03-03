@@ -65,7 +65,7 @@ Encoding: 0=0, 1=1, ω=2, ω²=3
 | [CHRONOLOGY.md](CHRONOLOGY.md) | Narrative timeline of the four-round campaign |
 | [CITATION.cff](CITATION.cff) | Citation metadata (CFF format) |
 | [LICENSE.md](LICENSE.md) | Business Source License 1.1 + SAMAEL Decree |
-| [estrella_108_v14.py](estrella_108_v14.py) | The 108 Doctrines Engine — complete search code |
+| [estrella_108_v13.py](estrella_108_v13.py) | The 108 Doctrines Engine — complete search code |
 | [MATRIZ_A48_y_42.txt](MATRIZ_A48_y_42.txt) | Raw generator matrices (A₁₂=48 and A₁₂=42) |
 | [The_Hunt_for_Distance_13_108_Doctrines.pdf](The_Hunt_for_Distance_13_108_Doctrines.pdf) | Full academic paper (PDF) |
 | [paper_v10.pdf](paper_v10.pdf) | AEGIS + Obstruction Theorems paper |
@@ -79,7 +79,7 @@ git clone https://github.com/tretoef-estrella/the-hunt-for-distance-13.git
 cd the-hunt-for-distance-13
 
 # Run the 108 Doctrines Engine (requires Python 3.6+, NumPy, gcc)
-python3 estrella_108_v14.py
+python3 estrella_108_v13.py
 ```
 
 The engine loads four seed matrices (A₁₂ = 60, 51, 48, 42), verifies each by exhaustive codeword enumeration, then executes the phased search pipeline. If d=13 is found, the matrix is saved to `DIAMOND_22_6_13.txt`.
