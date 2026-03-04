@@ -187,6 +187,18 @@ But Rafa no se rinde. The search continues.
 
 ---
 
+## Official Paper
+
+This document is a field report — a record of one strategy and its results. The official paper of the campaign, containing the full A₁₂ = 42 record, all 108 Doctrines, the three obstruction theorems, and the complete chronology, remains:
+
+**→ [paper_v13_22_6_12.pdf](https://github.com/tretoef-estrella/The-Hunt-for-Distance-13/blob/main/paper_v13_22_6_12.pdf)**
+
+That paper stays current until the diamond is found. Everything else — V15, and whatever comes after — are field reports. Attempts. Punches thrown at the wall.
+
+Rafa no se rinde.
+
+---
+
 ## References
 
 [1] I. Bouyukliev, M. Grassl, Z. Varbanov, *Discrete Mathematics* 281 (2004), 43–66.
