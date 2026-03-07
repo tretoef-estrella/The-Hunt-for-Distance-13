@@ -8,27 +8,28 @@ If you use this work in academic research, publications, software, or any deriva
 
 ```bibtex
 @misc{amichis2026hunt,
-  title   = {The Hunt for Distance 13: 108 Doctrines, 500M+ Evaluations,
-             and the $A_{12}=42$ Record for $[22,6,d]_4$},
+  title   = {The Hunt for Distance 13: World Record $A_{12}=33$
+             for the open $[22,6,d]_4$ coding theory problem},
   author  = {Amichis Luengo, Rafael and Claude (Anthropic)},
   year    = {2026},
   month   = {March},
-  url     = {https://github.com/tretoef-estrella/the-hunt-for-distance-13},
-  note    = {Proyecto Estrella. Auditors: Gemini (Google), ChatGPT (OpenAI), Grok (xAI)}
+  url     = {https://github.com/tretoef-estrella/The-Hunt-for-Distance-13},
+  note    = {Proyecto Estrella. 1.2B+ evaluations. 6 obstruction theorems.
+             Auditors: Gemini (Google), ChatGPT (OpenAI), Grok (xAI)}
 }
 ```
 
 ## Plain Text
 
-> Amichis Luengo, R. & Claude (Anthropic). *The Hunt for Distance 13: 108 Doctrines, 500M+ Evaluations, and the A₁₂=42 Record for [22,6,d]₄.* Proyecto Estrella, March 2026. https://github.com/tretoef-estrella/the-hunt-for-distance-13
+> Amichis Luengo, R. & Claude (Anthropic). *The Hunt for Distance 13: World Record A₁₂=33 for the open [22,6,d]₄ coding theory problem.* Proyecto Estrella, March 2026. https://github.com/tretoef-estrella/The-Hunt-for-Distance-13
 
 ## APA
 
-Amichis Luengo, R., & Claude (Anthropic). (2026, March). *The Hunt for Distance 13: 108 Doctrines, 500M+ Evaluations, and the A₁₂=42 Record for [22,6,d]₄.* Proyecto Estrella. https://github.com/tretoef-estrella/the-hunt-for-distance-13
+Amichis Luengo, R., & Claude (Anthropic). (2026, March). *The Hunt for Distance 13: World Record A₁₂=33 for the open [22,6,d]₄ coding theory problem.* Proyecto Estrella. https://github.com/tretoef-estrella/The-Hunt-for-Distance-13
 
 ## IEEE
 
-R. Amichis Luengo and Claude (Anthropic), "The Hunt for Distance 13: 108 Doctrines, 500M+ Evaluations, and the A₁₂=42 Record for [22,6,d]₄," Proyecto Estrella, Madrid, Spain, Mar. 2026. [Online]. Available: https://github.com/tretoef-estrella/the-hunt-for-distance-13
+R. Amichis Luengo and Claude (Anthropic), "The Hunt for Distance 13: World Record A₁₂=33 for the open [22,6,d]₄ coding theory problem," Proyecto Estrella, Madrid, Spain, Mar. 2026. [Online]. Available: https://github.com/tretoef-estrella/The-Hunt-for-Distance-13
 
 ---
 
