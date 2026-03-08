@@ -139,6 +139,7 @@ R. Amichis Luengo · Claude (Anthropic) · Gemini (Google DeepMind) · ChatGPT (
 📄 **[Download PDF](./amichis_2026_hunt_distance13_v6_260308_063140.signed.pdf)**
 
 *Submitted for arXiv endorsement — cs.IT — March 2026*
+"Preprint submitted March 7, 2026. arXiv endorsement pending."
 
 ---
 
