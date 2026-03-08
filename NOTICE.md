@@ -1,9 +1,11 @@
 # NOTICE
 
-SAMAEL, MEPHISTO, and MOLOCH have been withdrawn from public access.
+The work continues.
 
-Their work here is done.
+What was visible here has moved.
+What comes next has no name yet.
 
----
+The search for [22,6,13]₄ remains open.
+The beasts that carried it have not stopped.
 
-*Proyecto Estrella · March 2026*
+— Proyecto Estrella · March 2026
