@@ -136,7 +136,7 @@ This work was conducted using a distributed multi-AI research methodology:
 
 R. Amichis Luengo · Claude (Anthropic) · Gemini (Google DeepMind) · ChatGPT (OpenAI) · Grok (xAI)
 
-📄 **[Download PDF](./amichis_2026_hunt_distance13_v5_260307_224541_signed.pdf)**
+📄 **[Download PDF](./amichis_2026_hunt_distance13_v6_260308_063140.signed.pdf)**
 
 *Submitted for arXiv endorsement — cs.IT — March 2026*
 
@@ -189,14 +189,14 @@ cd ~/Downloads && python3 verify_a33.py
 Full source code, all seed matrices (.npy), and complete campaign history:
 **[github.com/tretoef-estrella/The-Hunt-for-Distance-13](https://github.com/tretoef-estrella/The-Hunt-for-Distance-13)**
 
-**Files in this repository:**
-
 | File | Description |
 |------|-------------|
 | `README.md` | This file |
-| `amichis_2026_hunt_distance13_v5_signed.pdf` | Full paper (arXiv submission) |
+| `amichis_2026_hunt_distance13_v6_260308_063140.signed.pdf` | Full paper (arXiv submission — v6, corrected) |
 | `verify_a33.py` | Independent verification script — runs in < 1 second |
 | `MATRIZ_A033_ciclo0141.npy` | Seed matrix — world record A₁₂=33, numpy format |
+| `MATRIZ_A033_ciclo0141.txt` | Seed matrix — human-readable format |
+| `NOTICE.md` | — |
 
 ---
 
