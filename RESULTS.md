@@ -45,7 +45,7 @@ Sum = 4,095 ✓ — A₁₂ = 33 ≡ 0 (mod 3) — 11 projective directions.
 
 ## Dual Co-Record: B₄ = 27
 
-**Current world dual co-record. Achieved cycle 12, MantisCamarón11, March 2026.**
+**Current world dual co-record. Confirmed in the active dual campaign, March 2026.**
 
 Discovery matrix (A₁₂=60, B₄=27):
 
@@ -69,9 +69,9 @@ Stored as `MATRIZ_A060_ciclo0012.npy`.
 | Step | B₄ | Z₃-orbits | Matrix file | Session | Status |
 |------|----|-----------|-------------|---------|--------|
 | Baseline | 36 | 12 | — | A₁₂=33 established | ✓ |
-| Step 1 | 30 | 10 | `MATRIZ_A045_ciclo0007.npy` | MantisCamarón10 C007 | ✓ |
-| Step 2 | 24 | 8 | `MATRIZ_A057_ciclo0014.npy` | MantisCamarón10 C014 | ✓ |
-| Step 3 | **27** | **9** | `MATRIZ_A060_ciclo0012.npy` | MantisCamarón11 C012 | ✓ **current** |
+| Step 1 | 30 | 10 | `MATRIZ_A045_ciclo0007.npy` | Phase IV | ✓ |
+| Step 2 | 24 | 8 | `MATRIZ_A057_ciclo0014.npy` | Phase IV | ✓ |
+| Step 3 | **27** | **9** | `MATRIZ_A060_ciclo0012.npy` | Phase IV | ✓ **current** |
 | Next | 21 | 7 | — | active | 🎯 |
 
 Note: B₄=27 and B₄=24 are independent cascade paths from different basins — both valid, both verified. The dual landscape has multiple routes. Every value confirmed divisible by 3 per Theorem D Corollary.
@@ -80,40 +80,15 @@ Note: B₄=27 and B₄=24 are independent cascade paths from different basins �
 
 ## Intermediate A₁₂ Records
 
-### A₁₂ = 36 — `MATRIZ_A036_ciclo0075.npy`
+The intermediate records A₁₂ = 42, 39, and 36 are documented as campaign milestones. Their generator matrices are available upon request after arXiv publication, as part of the full methodology disclosure.
 
-```
-g1=[2,1,0,2,0,2,0,2,3,0,2,2,3,1,0,0,0,3,2,0,0,1]
-g2=[3,1,0,1,1,0,1,3,1,1,0,1,2,3,3,3,0,1,1,0,3,0]
-g3=[3,1,0,2,2,3,0,2,0,3,1,1,2,0,0,1,0,1,0,0,2,0]
-g4=[0,0,1,1,3,0,2,3,3,3,1,0,1,2,0,0,1,2,1,0,3,0]
-g5=[3,2,0,2,1,2,3,0,1,1,3,3,0,2,0,3,2,2,0,3,2,0]
-g6=[0,0,0,0,1,1,1,2,0,1,3,1,1,2,0,1,2,1,1,0,1,0]
-```
+| Record | Value | Status |
+|--------|-------|--------|
+| A₁₂ = 42 | First world record of campaign | Superseded |
+| A₁₂ = 39 | — | Superseded |
+| A₁₂ = 36 | — | Superseded |
 
-### A₁₂ = 39 — `MATRIZ_A039_ciclo0001.npy`
-
-```
-g1=[1,1,0,0,0,0,3,2,2,0,0,3,2,2,1,1,0,0,2,0,2,3]
-g2=[2,0,2,1,0,0,3,1,3,0,2,3,1,3,3,0,1,3,1,3,3,2]
-g3=[2,3,2,2,3,0,2,0,2,2,1,3,2,0,2,0,2,0,0,0,3,3]
-g4=[0,3,1,3,0,3,0,3,3,0,2,2,3,2,1,0,0,0,1,1,0,2]
-g5=[2,2,3,1,0,0,2,3,0,1,1,3,0,3,0,0,1,0,0,2,3,3]
-g6=[1,2,0,1,0,0,2,3,2,0,3,1,3,0,0,0,2,0,1,3,0,0]
-```
-
-### A₁₂ = 42 — February 2026
-
-First world record of this campaign. Confirmed as geometric floor by Italian Job (~720M evaluations, 7.5 hours).
-
-```
-g1=[1,1,0,0,0,0,3,2,1,1,2,2,0,1,0,1,0,3,0,0,3,3]
-g2=[0,0,0,0,0,0,2,2,0,0,1,3,3,2,2,2,1,3,1,0,2,2]
-g3=[0,2,1,0,0,0,3,2,3,2,0,3,0,1,1,0,2,2,2,1,0,2]
-g4=[0,0,0,1,0,0,2,0,3,3,3,0,1,2,2,1,0,0,3,2,2,1]
-g5=[0,3,0,0,1,0,3,3,2,0,3,3,2,0,1,2,1,2,1,2,0,0]
-g6=[0,0,0,0,0,1,0,0,2,1,3,0,3,1,3,0,2,2,1,2,2,1]
-```
+All three confirmed by exhaustive weight enumeration.
 
 ---
 
@@ -122,16 +97,16 @@ g6=[0,0,0,0,0,1,0,0,2,1,3,0,3,1,3,0,2,2,1,2,2,1]
 | Phase | Engine | Evaluations | A₁₂ | B₄ | Date |
 |-------|--------|-------------|-----|----|------|
 | Baseline | Grassl (2001) | — | 78 | — | 2001 |
-| v1–v5 | 108 Doctrines | ~500M | 69→60→51→48 | — | Feb 2026 |
-| v13 Pitbull | Row recombination | +373M | **42** ★ | — | Feb 2026 |
-| v14–v15 Italian Job | Vertical collapse | ~720M | 42 floor | — | Feb 2026 |
-| v22 cycle 28 | Time-SA | +100M | **39** ★ | — | Mar 2026 |
-| v22 cycle 75 | Cascade | +200M | **36** ★ | — | Mar 2026 |
-| v22 cycle 141 | WARM cascade | +300M | **33** ★ | 36 | Mar 2026 |
-| AZRAEL v13 | Orbit atlas | 293+ cycles | 33 | 36 | Mar 2026 |
-| MantisCamarón10 C007 | Dual descent | active | 33 | **30** ★ | Mar 2026 |
-| MantisCamarón10 C014 | Dual cascade | active | 33 | **24** ★ | Mar 2026 |
-| **MantisCamarón11 C012** | **Dual cascade** | **active** | **33** | **27** ★ | **Mar 2026** |
+| Phase I | Multi-engine SA | ~500M | 69→60→51→48 | — | Feb 2026 |
+| Phase I | Row recombination | +373M | **42** ★ | — | Feb 2026 |
+| Phase I | Vertical collapse | ~720M | 42 floor | — | Feb 2026 |
+| Phase II | Simulated annealing | +100M | **39** ★ | — | Mar 2026 |
+| Phase II | Cascade | +200M | **36** ★ | — | Mar 2026 |
+| Phase II | Guided consolidation | +300M | **33** ★ | 36 | Mar 2026 |
+| Phase III | Orbit atlas + geometric memory | 293+ cycles | 33 | 36 | Mar 2026 |
+| Phase IV | Dual-spectrum engine | active | 33 | **30** ★ | Mar 2026 |
+| Phase IV | Dual cascade | active | 33 | **24** ★ | Mar 2026 |
+| **Phase IV** | **Dual cascade** | **active** | **33** | **27** ★ | **Mar 2026** |
 
 ★ = world record at time. **Total: 1.5B+ evaluations · 370+ cycles · 30+ routes closed.**
 
