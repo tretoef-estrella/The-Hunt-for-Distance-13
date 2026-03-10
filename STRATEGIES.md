@@ -28,8 +28,8 @@ Strategies targeting the number of minimum-weight codewords directly.
 | P-06 | **Phantom Fix** | Corrected wall-clock temperature decay (eliminated Phantom Cooling bug). | Engine reliability +40% | Integrated permanently |
 | P-07 | **Symmetry Breaker** | HOT-phase valley access enabling escape from A₁₂=42 attractor basin via d=11 crossing. | **A₁₂=39 ★** | Superseded |
 | P-08 | **Cascade** | Sequential basin descent from WARM phase with momentum. | **A₁₂=36 ★** | Integrated |
-| P-09 | **Heisenberg Sniper** | O(1) strike on the null columns of the most fragile minimum-weight codeword. | **A₁₂=33 ★** (cycle 141) | Active |
-| P-10 | **A13-Drain** | Accepts moves that reduce A₁₃ even when A₁₂ is unchanged. Erodes the weight-13 scaffold. | A₁₃: 327→95 (71% erosion) | Active |
+| P-09 | **Heisenberg Sniper** | O(1) strike on the null columns of the most fragile minimum-weight codeword. | **A₁₂=33 ★** | Active |
+| P-10 | **A13-Drain** | Accepts moves that reduce A₁₃ even when A₁₂ is unchanged. Erodes the weight-13 scaffold. | Active erosion of A₁₃ | Active |
 | P-11 | **Diferencial Activo** | Directs pressure to the Z₃ orbit with lowest angular momentum. | Structural refinement | Active |
 | P-12 | **Orbit Atlas** | Maps all Z₃ orbits of minimum-weight codewords. Tracks fragility by support count. | Full portrait of A₁₂=33 attractor | Active |
 | P-13 | **Momento Angular** | Ranks orbits by the number of weight-13 codewords supporting them. Attacks weakest first. | Attractor characterization | Active |
@@ -46,9 +46,9 @@ Strategies targeting weight-4 codewords of the dual code C⊥. Each B₄ word is
 |---|------|-------------|--------|--------|
 | D-01 | **Dual Descent** | Joint energy minimization over (A₁₂, B₄). Crosses saddle points in the dual landscape. | B₄: 36→33→30 | Active |
 | D-02 | **MantisCamarón** | Dual-spectrum engine. Tracks B₄ in real time via GF(4) Cayley enumerator. | B₄=30 confirmed | Active |
-| D-03 | **Inmersión en B₄** | On new B₄ co-record: forces next cycle to explore from the record basin directly. | B₄=**24 ★** (cycle 14) | Active |
-| D-04 | **Trio Fatal** | Simultaneous destruction of 3 Z₃ dual orbits. High-energy coordinated strike. | 0 improvements — dual orbits resistant | Under study |
-| D-05 | **Acordeón** | GF(4)-correct cluster identification in the dual. Maps the 12 dual clusters at B₄=24. | Dual portrait complete | Active |
+| D-03 | **Inmersión en B₄** | Basin-locking strategy on dual co-records. | **B₄=24 ★** | Active |
+| D-04 | **Trio Fatal** | Coordinated multi-cluster attack in the dual. | Under active development | Active |
+| D-05 | **Acordeón** | GF(4)-correct cluster identification in the dual. Maps dual cluster structure. | Dual portrait active | Active |
 
 ---
 
@@ -86,14 +86,14 @@ Strategies for escaping structural attractor basins.
 
 ## Records Produced by Strategy
 
-| Record | Strategy | Cycle | Date |
-|--------|----------|-------|------|
-| A₁₂ = 42 ★ | Pitbull (P-04) | — | Feb 2026 |
-| A₁₂ = 39 ★ | Symmetry Breaker (P-07) | 28 | Mar 2026 |
-| A₁₂ = 36 ★ | Cascade (P-08) | 75 | Mar 2026 |
-| A₁₂ = 33 ★ | Heisenberg Sniper (P-09) | 141 | Mar 2026 |
-| B₄ = 30 ★ | Dual Descent (D-01) | — | Mar 2026 |
-| B₄ = 24 ★ | Inmersión en B₄ (D-03) | 14 | Mar 2026 |
+| Record | Strategy | Date |
+|--------|----------|------|
+| A₁₂ = 42 ★ | Pitbull (P-04) | Feb 2026 |
+| A₁₂ = 39 ★ | Symmetry Breaker (P-07) | Mar 2026 |
+| A₁₂ = 36 ★ | Cascade (P-08) | Mar 2026 |
+| A₁₂ = 33 ★ | Heisenberg Sniper (P-09) | Mar 2026 |
+| B₄ = 30 ★ | Dual Descent (D-01) | Mar 2026 |
+| B₄ = 24 ★ | Inmersión en B₄ (D-03) | Mar 2026 |
 
 ★ = world record at time of achievement.
 
